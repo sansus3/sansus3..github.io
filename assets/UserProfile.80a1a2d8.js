@@ -1,0 +1,1 @@
+import{Q as e}from"./QPage.d0363454.js";import{_ as r,E as a,F as o,G as s,H as t}from"./index.42606acb.js";const c={},_=t("h1",null,"Perfil de usuario",-1);function n(f,i){return a(),o(e,{padding:""},{default:s(()=>[_]),_:1})}var u=r(c,[["render",n]]);export{u as default};
